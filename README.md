@@ -11,7 +11,7 @@ This endeavor was created for CodeLeap company's coding assessment.
 
 #### Desktop:
 
-<iframe width="560" height="315" src="https://youtu.be/doeRSKmuc_0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/doeRSKmuc_0" title="Rock Star" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen><br>Powered by <a href="https://youtubeembedcode.com">embed youtube video</a> and <a href="https://xn--helgln-mua.com/">helglån.com</a>
 
 
 
